@@ -1,0 +1,58 @@
+[
+    {
+      "name": "Umbria",
+      "address": "0x2e4b0Fb46a46C90CB410FE676f24E466753B469f",
+      "symbol": "UMBR",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://i.imgur.com/06BkcTT.png"
+    },
+    {
+      "name": "0xBitcoin Token",
+      "address": "0x71B821aa52a49F32EEd535fCA6Eb5aa130085978",
+      "symbol": "0xBTC",
+      "decimals": 8,
+      "chainId": 137,
+      "logoURI": "https://i.imgur.com/06BkcTT.png"
+    },
+    {
+      "name": "Aave",
+      "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+      "symbol": "AAVE",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://i.imgur.com/06BkcTT.png"
+    },
+    {
+      "name": "AGA Token",
+      "address": "0x033d942A6b495C4071083f4CDe1f17e986FE856c",
+      "symbol": "AGA",
+      "decimals": 4,
+      "chainId": 137,
+      "logoURI": "https://i.imgur.com/06BkcTT.png"
+    },
+    {
+      "name": "AGA Rewards",
+      "address": "0xF84BD51eab957c2e7B7D646A3427C5A50848281D",
+      "symbol": "AGAr",
+      "decimals": 8,
+      "chainId": 137,
+      "logoURI": "https://i.imgur.com/06BkcTT.png"
+    },
+    {
+      "name": "Anyswap",
+      "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
+      "symbol": "ANY",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://i.imgur.com/06BkcTT.png"
+    },
+    {
+      "name": "ARIANEE",
+      "address": "0x46F48FbdedAa6F5500993BEDE9539ef85F4BeE8e",
+      "symbol": "ARIA20",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://i.imgur.com/06BkcTT.png"
+    }
+  ]
