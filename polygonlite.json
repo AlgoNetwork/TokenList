@@ -2,7 +2,7 @@
       {
         "chainId": 1,
         "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
-        "name": "1INCH Token",
+        "name": "WMatic",
         "symbol": "1INCH",
         "decimals": 18,
         "logoURI": "https://cdn.furucombo.app/assets/img/token/ALEPH.png"
@@ -10,7 +10,7 @@
       {
         "chainId": 1,
         "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
-        "name": "Curve.fi DAI/USDC/USDT",
+        "name": "USDT",
         "symbol": "3Crv",
         "decimals": 18,
         "logoURI": "https://cdn.furucombo.app/assets/img/token/3Crv.png"
@@ -18,7 +18,7 @@
       {
         "chainId": 1,
         "address": "0x3BA4c387f786bFEE076A58914F5Bd38d668B42c3",
-        "name": "Aave Token",
+        "name": "BNB",
         "symbol": "AAVE",
         "decimals": 18,
         "logoURI": "https://cdn.furucombo.app/assets/img/token/ALEPH.png"
@@ -26,7 +26,7 @@
       {
         "chainId": 1,
         "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
-        "name": "AdEx Network",
+        "name": "USDC",
         "symbol": "ADX",
         "decimals": 18,
         "logoURI": "https://cdn.furucombo.app/assets/img/token/ADX.png"
@@ -34,7 +34,7 @@
       {
         "chainId": 1,
         "address": "0x692597b009d13c4049a947cab2239b7d6517875f",
-        "name": "Adventure Gold",
+        "name": "UST",
         "symbol": "AGLD",
         "decimals": 18,
         "logoURI": "https://cdn.furucombo.app/assets/img/token/AGLD.png"
@@ -42,7 +42,7 @@
       {
         "chainId": 1,
         "address": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
-        "name": "Akropolis",
+        "name": "WBTC",
         "symbol": "AKRO",
         "decimals": 18,
         "logoURI": "https://cdn.furucombo.app/assets/img/token/AKRO.png"
@@ -50,7 +50,7 @@
       {
         "chainId": 1,
         "address": "0xada58df0f643d959c2a47c9d4d4c1a4defe3f11c",
-        "name": "AllianceBlock Token",
+        "name": "CRO",
         "symbol": "ALBT",
         "decimals": 18,
         "logoURI": "https://cdn.furucombo.app/assets/img/token/ALBT.png"
@@ -58,7 +58,7 @@
       {
         "chainId": 1,
         "address": "0xF84BD51eab957c2e7B7D646A3427C5A50848281D",
-        "name": "Alchemix",
+        "name": "AGA",
         "symbol": "ALCX",
         "decimals": 18,
         "logoURI": "https://cdn.furucombo.app/assets/img/token/ALCX.png"
@@ -74,7 +74,7 @@
       {
         "chainId": 1,
         "address": "0x172370d5cd63279efa6d502dab29171933a610af",
-        "name": "AlphaToken",
+        "name": "CRV",
         "symbol": "ALPHA",
         "decimals": 18,
         "logoURI": "https://cdn.furucombo.app/assets/img/token/ALEPH.png"
