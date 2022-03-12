@@ -12,7 +12,7 @@
         "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
         "name": "USDT",
         "symbol": "3Crv",
-        "decimals": 18,
+        "decimals": 6,
         "logoURI": "https://cdn.furucombo.app/assets/img/token/3Crv.png"
       },
       {
