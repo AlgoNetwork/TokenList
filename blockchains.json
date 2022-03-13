@@ -10,33 +10,39 @@
       "DEXRouter": "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff",
       "DEXFactory": "0x5757371414417b8c6caad45baef941abc7d3ab32",
       "DEXName": "QuickSwap",
+      "initcodeHash":"0x96e8ac4277198ff8b6f785478aa9a39f403cb768dd02cbee326c3e7da348845f",
       "logoURI": "https://i.imgur.com/06BkcTT.png",
-      "tokenList": "https://algonetwork.github.io/TokenList/Polygon.json"
+      "tokenList": "https://algonetwork.github.io/TokenList/Polygon.json",
+      "oracleAddress":"0x76390AD8C3e2c01bd2a609Fd73b6628e6b43DA51"
     },
     {
       "name": "Ethereum",
-      "rpc": "https://mainnet.infura.io/v3/3bae5",
-      "symbol": "ETH",
-      "explorers": "https://etherscan.io/tx/",
+      "rpc": "https://polygon-rpc.com",
+      "symbol": "Matic",
+      "explorers": "https://polygonscan.com/tx/",
       "chainId": 1,
       "logoURI": "https://i.imgur.com/06BkcTT.png",
-      "DEXRouter": "",
-      "DEXFactory": "",
-      "DEXName": "Uniswap",
+      "DEXRouter": "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff",
+      "DEXFactory": "0x5757371414417b8c6caad45baef941abc7d3ab32",
+      "DEXName": "QuickSwap",
+      "initcodeHash":"0x96e8ac4277198ff8b6f785478aa9a39f403cb768dd02cbee326c3e7da348845f",
       "logoURI": "https://i.imgur.com/06BkcTT.png",
-      "tokenList": "https://algonetwork.github.io/TokenList/Ethereum.json"
+      "tokenList": "https://algonetwork.github.io/TokenList/Polygon.json",
+      "oracleAddress":"0x76390AD8C3e2c01bd2a609Fd73b6628e6b43DA51"
     },
     {
       "name": "Binance",
-      "rpc": "https://bsc-dataseed.binance.org/",
-      "symbol": "BNB",
-      "explorers": "https://bscscan.com/tx/",
+      "rpc": "https://polygon-rpc.com",
+      "symbol": "Matic",
+      "explorers": "https://polygonscan.com/tx/",
       "chainId": 56,
       "logoURI": "https://i.imgur.com/06BkcTT.png",
-      "DEXRouter": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
-      "DEXFactory": "0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73",
-      "DEXName": "Pancakeswap",
+      "DEXRouter": "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff",
+      "DEXFactory": "0x5757371414417b8c6caad45baef941abc7d3ab32",
+      "DEXName": "QuickSwap",
+      "initcodeHash":"0x96e8ac4277198ff8b6f785478aa9a39f403cb768dd02cbee326c3e7da348845f",
       "logoURI": "https://i.imgur.com/06BkcTT.png",
-      "tokenList": "https://algonetwork.github.io/TokenList/Polygon.json"
+      "tokenList": "https://algonetwork.github.io/TokenList/Polygon.json",
+      "oracleAddress":"0x76390AD8C3e2c01bd2a609Fd73b6628e6b43DA51"
     }
   ]
