@@ -11,7 +11,7 @@
       "DEXFactory": "0x5757371414417b8c6caad45baef941abc7d3ab32",
       "DEXName": "QuickSwap",
       "logoURI": "https://i.imgur.com/06BkcTT.png",
-      "tokenList": "hhttps://algonetwork.github.io/TokenList/Polygon.json"
+      "tokenList": "https://algonetwork.github.io/TokenList/Polygon.json"
     },
     {
       "name": "Ethereum",
@@ -24,7 +24,7 @@
       "DEXFactory": "",
       "DEXName": "Uniswap",
       "logoURI": "https://i.imgur.com/06BkcTT.png",
-      "tokenList": "hhttps://algonetwork.github.io/TokenList/Polygon.json"
+      "tokenList": "https://algonetwork.github.io/TokenList/Polygon.json"
     },
     {
       "name": "Binance",
@@ -37,6 +37,6 @@
       "DEXFactory": "0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73",
       "DEXName": "Pancakeswap",
       "logoURI": "https://i.imgur.com/06BkcTT.png",
-      "tokenList": "hhttps://algonetwork.github.io/TokenList/Polygon.json"
+      "tokenList": "https://algonetwork.github.io/TokenList/Polygon.json"
     }
   ]
